@@ -1,3 +1,7 @@
+---
+title: lucapennacchio
+---
+
 # Luca Pennacchio
 University professor | Applied economics
 
