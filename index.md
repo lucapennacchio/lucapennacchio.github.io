@@ -1,4 +1,3 @@
-# Luca Pennacchio
 
 University professor | Applied economics
 
